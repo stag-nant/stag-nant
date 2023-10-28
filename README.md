@@ -7,8 +7,7 @@ My name is Muhil, and I'm a cybersecurity university student 🌱 studying at SR
 - Java
 - C++
 - Linux
-- Penetration testing
-  
+
 - 📫 You can reach me at muhilm6@gmail.com
 
 
