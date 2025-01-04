@@ -20,7 +20,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1&color=73F758&multiline=true&repeat=false&width=435&lines=root%40muhil%3A~%23+.%2Fcurrent_projects.sh)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&color=1A1AF7&multiline=true&repeat=false&width=435&lines=%F0%9F%94%92+Learning+advanced+web+exploitation.;%F0%9F%A7%A9+Analyzing+real-world+breaches+and+vulnerabilities.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&color=1A1AF7&multiline=true&repeat=false&width=435&lines=%F0%9F%94%92+Learning+advanced+web+exploitation.;%F0%9F%A7%A9+Analyzing+real-world+breaches)](https://git.io/typing-svg)
 
 
 
