@@ -1,10 +1,8 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1&color=2CF732&repeat=false&width=435&lines=root%40muhil%3A~%23+echo+%22%F0%9F%91%8B+Hi%2C+I'm+Muhil%22)](https://git.io/typing-svg)
-
-### Cybersecurity Student | Aspiring Red Teamer  
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F71606&width=435&lines=root%40muhil%3A~%23+echo+%22%F0%9F%91%8B+Hi%2C+I'm+Muhil%22)](https://git.io/typing-svg)
 
 ```bash
 root@muhil:~# whoami  
-> Offensive Security Enthusiast  
+> Cybersecurity Student | Aspiring Red Teamer  
 
 root@muhil:~# echo "Skills"  
 > Penetration Testing  
@@ -23,7 +21,6 @@ root@muhil:~# connect --linkedin www.linkedin.com/in/muhilm
 > 📫 Email: muhilm6@gmail.com
 
 ```
+# ![Muhil's GitHub stats](https://github-readme-stats.vercel.app/api?username=stag-nant&show_icons=true&theme=radical)
 
-![Muhil's GitHub stats](https://github-readme-stats.vercel.app/api?username=stag-nant&show_icons=true&theme=radical)
-
-[![Muhil's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=stag-nant&theme=redical)](https://github.com/stag-nant/github-readme-activity-graph)
+# [![Muhil's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=stag-nant&theme=redical)](https://github.com/stag-nant/github-readme-activity-graph)
