@@ -1,4 +1,4 @@
-# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F71606&width=435&lines=root%40muhil%3A~%23+echo+%22%F0%9F%91%8B+Hi%2C+I'm+Muhil%22)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F71606&width=435&lines=root%40muhil%3A~%23+echo+%F0%9F%91%8B%20Hi,%20I'm%20Muhil%20%22)](https://git.io/typing-svg)
 
 ```bash
 root@muhil:~# whoami  
