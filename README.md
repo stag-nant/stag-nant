@@ -17,8 +17,10 @@ root@muhil:~# cat current_projects.txt
 > 🛠️ Building custom tools for recon and exploitation.  
 > 🧩 Analyzing real-world breaches and vulnerabilities.  
 
-root@muhil:~# connect --linkedin www.linkedin.com/in/muhilm
-> 📫 Email: muhilm6@gmail.com
+root@muhil:~# connect --help
+> LinkedIn: www.linkedin.com/in/muhilm
+> Email: muhilm6@gmail.com
+> TryHackMe: lasthacker
 
 ```
 # ![Muhil's GitHub stats](https://github-readme-stats.vercel.app/api?username=stag-nant&show_icons=true&theme=radical)
