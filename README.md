@@ -23,6 +23,6 @@ root@muhil:~# connect --help
 > TryHackMe: lasthacker
 
 ```
-# ![Muhil's GitHub stats](https://github-readme-stats.vercel.app/api?username=stag-nant&show_icons=true&theme=radical)
+<!-- # ![Muhil's GitHub stats](https://github-readme-stats.vercel.app/api?username=stag-nant&show_icons=true&theme=radical)
 
-# [![Muhil's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=stag-nant&theme=redical)](https://github.com/stag-nant/github-readme-activity-graph)
+# [![Muhil's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=stag-nant&theme=redical)](https://github.com/stag-nant/github-readme-activity-graph) -->
