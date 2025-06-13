@@ -5,8 +5,8 @@ root@muhil:~# whoami
 > Cybersecurity Student | Aspiring Red Teamer | Cloud Security Explorer
 
 root@muhil:~# echo "About Me"
-> Hands-on cybersecurity enthusiast deeply passionate about cloud security, threat detection, and incident response.  
-> I thrive on building and deploying real-world security solutions—from honeypots to SOAR/EDR integration—and continuously sharpen my skills through advanced labs and CTFs.  
+> Hands-on cybersecurity enthusiast passionate about cloud security, threat detection, and incident response.  
+> I thrive on building and deploying practical security solutions—from honeypots to SOAR/EDR integration—and continuously sharpen my skills through advanced labs and CTFs.  
 > ✔️ Open to Security Analyst and Cloud Security roles | Ready to contribute to your team!
 ```
 
@@ -14,9 +14,10 @@ root@muhil:~# echo "About Me"
 
 ## 🔍 Professional Summary
 
-I’m actively seeking Security Analyst and Cloud Security roles. With hands-on experience in building honeypots, automating detection, and securing cloud environments, I bring both technical depth and a drive for continuous learning. Let’s connect to discuss how I can help your team build a safer digital world!
+I'm actively seeking Security Analyst and Cloud Security roles. With hands-on experience in building honeypots, automating detection, and securing cloud environments, I bring both technical depth and a growth mindset. I prioritize real-world solutions and enjoy collaboration, learning, and sharing knowledge.
 
 ---
+*[Contact me](#-lets-connect)*
 
 ## 🧾 Certifications
 
@@ -59,21 +60,33 @@ I’m actively seeking Security Analyst and Cloud Security roles. With hands-on 
 
 ## 🚀 Featured Cybersecurity Projects
 
-| Project | Description | Skills / Tools |
-|---------|-------------|---------------|
-| [🕵️ Cowrie-Honeypot-with-Slack-Alerts](https://github.com/stag-nant/Cowrie-Honeypot-with-Slack-Alerts) | SSH honeypot with real-time Slack alerts for detecting and analyzing attacker behavior. **Detected and logged multiple real attack attempts.** | Honeypots, Python, Slack API, Threat Intelligence |
-| [☁️ Azure-RBAC-with-PowerShell](https://github.com/stag-nant/Azure-RBAC-with-PowerShell) | Automated Azure Role-Based Access Control via PowerShell, focusing on IAM and least privilege. **Reduced manual IAM configuration time by 70%.** | Azure, PowerShell, Cloud Security, IAM |
-| [🔗 SOAR_EDR](https://github.com/stag-nant/SOAR_EDR) | Security Orchestration & Automated Response lab integrating SOAR tools with EDR alerts. **Enabled auto-response to simulated endpoint threats.** | SOAR, EDR, Incident Response, Security Automation |
-| [🐍 bruteforce_py_code](https://github.com/stag-nant/bruteforce_py_code) | Python scripts for simulating and detecting brute-force attacks for security testing. **Improved detection reliability in lab environments.** | Python, Threat Simulation, Detection Logic |
-| [🔒 Cybersecurity-Resources](https://github.com/stag-nant/Cybersecurity-Resources) | Curated notes and resources for cybersecurity tools, techniques, and methodologies. | Threat Intelligence, Research, Blue Team |
+| Project                                                                                 | Description                                                                                                                                                   | Skills & Tools                               |
+|-----------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------|
+| [🕵️ Cowrie-Honeypot-with-Slack-Alerts](https://github.com/stag-nant/Cowrie-Honeypot-with-Slack-Alerts) | Deployed and customized the Cowrie SSH honeypot to collect attacker data, automated Slack notifications for real-time incident awareness, and performed log analysis to extract actionable insights. | Python, Cowrie, Slack API, Threat Detection  |
+| [☁️ Azure-RBAC-with-PowerShell](https://github.com/stag-nant/Azure-RBAC-with-PowerShell) | Automated Azure Role-Based Access Control via PowerShell scripts. Designed and validated least-privilege policies, strengthening cloud IAM posture and reducing risk.                         | PowerShell, Azure, IAM, Automation           |
+| [🔗 SOAR_EDR](https://github.com/stag-nant/SOAR_EDR)                                    | Built a lab integrating Security Orchestration and Automated Response (SOAR) tools with Endpoint Detection & Response (EDR) solutions. Enabled automated response to endpoint threats for faster incident handling and reduced dwell time. | Python, SOAR, EDR, Automation, Security Ops  |
+| [🐍 bruteforce_py_code](https://github.com/stag-nant/bruteforce_py_code)                | Developed Python scripts to simulate brute-force attack scenarios, and built detection logic to identify and alert on suspicious authentication behavior. Enhanced detection reliability and reporting. | Python, Attack Simulation, Detection         |
+| [🔒 Cybersecurity-Resources](https://github.com/stag-nant/Cybersecurity-Resources)       | Curated a comprehensive collection of notes and practical guides for cybersecurity tools, methodologies, and threat intelligence. Includes lab setups and deep dives for learners.           | Threat Intel, Research, Documentation        |
+
+---
+
+## 📚 Publications & Research
+
+- **“Evaluating and Exploiting Security Vulnerabilities in Large Language Models (LLMs) for Offensive Penetration Testing”**  
+  *To be presented at IEEE ICCPCT 2025, August 2025*  
+  **Status:** Accepted, upcoming conference presentation  
+  *This paper explores methods for identifying and leveraging security gaps in advanced LLMs, providing offensive strategies and mitigation insights for penetration testers and AI security researchers.*
+
+
 
 ---
 
 ## 🌱 Current Learning & Focus
 
-- Advanced web exploitation
+- Advanced web exploitation (OWASP, API hacking)
 - Custom tool building for recon & exploitation
 - Real-world breach and vulnerability analysis
+- Blue team automation & detection engineering
 
 ---
 
@@ -82,6 +95,15 @@ I’m actively seeking Security Analyst and Cloud Security roles. With hands-on 
 - Built and deployed multiple security solutions from concept to lab validation
 - Automated security tasks, reducing manual workload and increasing detection speed
 - Strong analytical skills, collaborative mindset, and a passion for sharing knowledge through writeups and open-source contributions
+
+---
+
+## 📈 GitHub Stats & Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=stag-nant&show_icons=true&theme=radical" alt="Muhil's GitHub Stats" height="150"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=stag-nant&theme=redical" alt="GitHub Activity Graph" height="150"/>
+</p>
 
 ---
 
@@ -98,8 +120,3 @@ I’m actively seeking Security Analyst and Cloud Security roles. With hands-on 
 [![Gmail](https://img.shields.io/badge/Email-muhilm6@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhilm6@gmail.com)
 
 ---
-
-<!--
-![Muhil's GitHub stats](https://github-readme-stats.vercel.app/api?username=stag-nant&show_icons=true&theme=radical)
-[![Muhil's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=stag-nant&theme=redical)](https://github.com/stag-nant/github-readme-activity-graph)
--->
