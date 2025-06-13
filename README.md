@@ -87,7 +87,7 @@ I’m actively seeking Security Analyst and Cloud Security roles. With hands-on 
 
 ## 📄 Resume & Portfolio
 
-- [Download My Resume (PDF)](https://github.com/stag-nant/portfolio/raw/main/Muhil_Resume.pdf) <!-- Update with your actual resume path -->
+- [Download My Resume (PDF)](https://github.com/stag-nant/portfolio/raw/main/RESUME_LATEST.pdf) <!-- Update with your actual resume path -->
 
 ---
 
