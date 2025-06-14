@@ -24,8 +24,7 @@ I prioritize real-world solutions and enjoy collaboration, learning, and sharing
 ## 🕹️ <span style="color:#00FFF7">SYSTEM LOGS</span>
 
 ```
-[+] 🏆 Top 1% TryHackMe | 100+ CTFs | 🥇 1st Place University CTF
-[+] 🤖 10+ open-source sec tools/scripts
+[+] 🏆 Top 1% TryHackMe | 10+ CTFs 
 [+] 🎓 B.Tech Cybersecurity, SRM Chennai
 [+] 🛡️ Ex-military: Combat Eng. Secure Radio Ops (SG)
 [+] 📜 IEEE ICCPCT’25 LLM Security Paper (accepted!)
