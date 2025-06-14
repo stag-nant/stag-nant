@@ -1,4 +1,4 @@
-# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F71606&width=600&lines=%F0%9F%94%91+root%40muhil%3A~%23+echo+%F0%9F%91%8B+Hi%2C+I'm+Muhil+%7C+CyberOps+in+Progress...;ACCESS+LOGGED+%7C+Welcome+to+the+Cyber+Matrix!)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F71606&width=600&lines=%F0%9F%94%91+root%40muhil%3A~%23+echo+%F0%9F%91%8B+Hi%2C+I'm+Muhil+%7C+CyberOps+in+Prog...)](https://github.com/stag-nant)
 
 ---
 
@@ -98,13 +98,14 @@ I prioritize real-world solutions and enjoy collaboration, learning, and sharing
 
 ## 🚀 <span style="color:#FFD600">Featured Cybersecurity Projects</span>
 
-| Project                                                                                 | Description                                                                                                                                                   | Skills & Tools                               |
-|-----------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------|
-| [🕵️ Cowrie-Honeypot-with-Slack-Alerts](https://github.com/stag-nant/Cowrie-Honeypot-with-Slack-Alerts) | Deployed and customized the Cowrie SSH honeypot to collect attacker data, automated Slack notifications for real-time incident awareness, and performed log analysis to extract actionable insights. | Python, Cowrie, Slack API, Threat Detection  |
-| [☁️ Azure-RBAC-with-PowerShell](https://github.com/stag-nant/Azure-RBAC-with-PowerShell) | Automated Azure Role-Based Access Control via PowerShell scripts. Designed and validated least-privilege policies, strengthening cloud IAM posture and reducing risk.                         | PowerShell, Azure, IAM, Automation           |
-| [🔗 SOAR_EDR](https://github.com/stag-nant/SOAR_EDR)                                    | Built a lab integrating Security Orchestration and Automated Response (SOAR) tools with Endpoint Detection & Response (EDR) solutions. Enabled automated response to endpoint threats for faster incident handling and reduced dwell time. | Python, SOAR, EDR, Automation, Security Ops  |
-| [🐍 bruteforce_py_code](https://github.com/stag-nant/bruteforce_py_code)                | Developed Python scripts to simulate brute-force attack scenarios, and built detection logic to identify and alert on suspicious authentication behavior. Enhanced detection reliability and reporting. | Python, Attack Simulation, Detection         |
-| [🔒 Cybersecurity-Resources](https://github.com/stag-nant/Cybersecurity-Resources)       | Curated a comprehensive collection of notes and practical guides for cybersecurity tools, methodologies, and threat intelligence. Includes lab setups and deep dives for learners.           | Threat Intel, Research, Documentation        |
+| Project                                                                                 | Description                                                                                                      |
+|-----------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------|
+| [🕵️ Cowrie-Honeypot-with-Slack-Alerts](https://github.com/stag-nant/Cowrie-Honeypot-with-Slack-Alerts) | Deployed and customized the Cowrie SSH honeypot to collect attacker data, automated Slack alerting, and incident response. |
+| [☁️ Azure-RBAC-with-PowerShell](https://github.com/stag-nant/Azure-RBAC-with-PowerShell) | Automated Azure Role-Based Access Control via PowerShell scripts. Designed and validated least-privilege policies.         |
+| [🔗 SOAR_EDR](https://github.com/stag-nant/SOAR_EDR)                                    | Built a lab integrating Security Orchestration and Automated Response (SOAR) tools with Endpoint Detection and Response.    |
+| [🐍 bruteforce_py_code](https://github.com/stag-nant/bruteforce_py_code)                | Developed Python scripts to simulate brute-force attack scenarios, and built detection logic to identify attacks.           |
+| [🔒 Cybersecurity-Resources](https://github.com/stag-nant/Cybersecurity-Resources)       | Curated a comprehensive collection of notes and practical guides for cybersecurity tools, methodologies, and research.      |
+| [🛡️ Safecode-scanner](https://github.com/stag-nant/Safecode-scanner)                    | Created a web-based tool for scanning codebases for common security issues and vulnerabilities, with a Python/HTML stack.   |
 
 ---
 
